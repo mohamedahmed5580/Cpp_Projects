@@ -1,0 +1,3 @@
+﻿  factorial.cpp
+C:\Users\Mohamed beko\Desktop\C++\factorial\factorial\factorial.cpp(5,9): warning C4101: 'i': unreferenced local variable
+  factorial.vcxproj -> C:\Users\Mohamed beko\Desktop\C++\factorial\x64\Debug\factorial.exe
