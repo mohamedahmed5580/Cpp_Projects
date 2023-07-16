@@ -1,0 +1,3 @@
+C:/Users/Specialist/CLionProjects/GPACalclutor/cmake-build-debug/CMakeFiles/GPACalclutor.dir
+C:/Users/Specialist/CLionProjects/GPACalclutor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Specialist/CLionProjects/GPACalclutor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
