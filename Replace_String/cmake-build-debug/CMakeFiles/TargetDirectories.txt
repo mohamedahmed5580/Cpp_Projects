@@ -1,0 +1,3 @@
+C:/Users/Specialist/CLionProjects/Replace_String/cmake-build-debug/CMakeFiles/Replace_String.dir
+C:/Users/Specialist/CLionProjects/Replace_String/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Specialist/CLionProjects/Replace_String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
