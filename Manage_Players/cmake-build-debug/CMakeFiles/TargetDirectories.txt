@@ -1,0 +1,3 @@
+C:/Users/Specialist/CLionProjects/Manage_Players/cmake-build-debug/CMakeFiles/Manage_Players.dir
+C:/Users/Specialist/CLionProjects/Manage_Players/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Specialist/CLionProjects/Manage_Players/cmake-build-debug/CMakeFiles/rebuild_cache.dir
